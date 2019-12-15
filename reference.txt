@@ -1,1 +1,3 @@
 https://docs.groovy-lang.org/latest/html/api/groovy/sql/Sql.html
+
+https://qiita.com/yamap_55/items/07b601fddbf9633248fe
